@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joefrancesconi/sancus.git"
+    "url": "git+https://github.com/joefrancesconi/electron_tutorial.git"
   },
   "author": "Joe Francesconi",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/joefrancesconi/sancus/issues"
+    "url": "https://github.com/joefrancesconi/electron_tutorial/issues"
   },
-  "homepage": "https://github.com/joefrancesconi/sancus#readme",
+  "homepage": "https://github.com/joefrancesconi/electron_tutorial#readme",
   "devDependencies": {
     "@electron-forge/cli": "^6.4.2",
     "@electron-forge/maker-deb": "^6.4.2",
